@@ -34,12 +34,12 @@ By using gsub, various unintuitive parts of column names were substituted with m
 
 For example,
 
-1.  tBodyAcc-mean()-X			time of body acceleration mean x axis
-2   tBodyAcc-mean()-Y			time of body acceleration mean y axis
-3   tBodyAcc-mean()-Z			time of body acceleration mean z axis
-4    tBodyAcc-std()-X			time of body acceleration standard deviation x axis
-5    tBodyAcc-std()-Y			time of body acceleration standard deviation y axis
-6    tBodyAcc-std()-Z			time of body acceleration standard deviation z axis
+1.  tBodyAcc-mean()-X		   	- time of body acceleration mean x axis
+2.  tBodyAcc-mean()-Y		   	- time of body acceleration mean y axis
+3.  tBodyAcc-mean()-Z		  	- time of body acceleration mean z axis
+4.  tBodyAcc-std()-X		  	- time of body acceleration standard deviation x axis
+5.  tBodyAcc-std()-Y		  	- time of body acceleration standard deviation y axis
+6.  tBodyAcc-std()-Z		  	- time of body acceleration standard deviation z axis
 
 With that, the tidying of the data is now complete.
 
